@@ -1,0 +1,69 @@
+
+.cs{
+    width: 100%;
+    height: 5000px;
+    background: linear-gradient(to right,#1CAC78 ,#008080);
+    
+    border-color: black;
+}
+.img{
+    width: 100%;
+    height: 600px;
+    align-self:center;
+}
+#id1{
+    
+    width: 120mm;
+    margin-left: 50px;
+    margin-top: 30px;
+   
+}
+.a:hover{
+    position:static;
+    -moz-animation-play-state:paused ;
+    animation-play-state: paused;
+    -webkit-animation-play-state: paused;
+}
+.foot{
+    width: 100%;
+    height: 50px;
+    background-color: grey;
+}
+.footer{
+    height: 150px;
+    background: grey;
+}
+.imgicon{
+    transition: 0.5s;
+    color: rgb(216, 211, 211);
+    margin-top: 20px;
+}
+.imgicon:hover{
+    transform:translateY(-15px);
+} 
+.np{
+border: 2px solid rgb(139, 180, 237);
+width:23%;
+height: 400px;
+float: left;
+margin: 10px;
+}  
+.nq{
+    border: 2px solid rgb(224, 215, 215);
+    width:23%;
+    height: 600px;
+    float: left;
+    margin: 10px;
+    }  
+    .nw{
+        border: 2px solid black;
+        width:20%;
+        float: left;
+        /* margin: 10px; */
+        }  
+.u{
+    text-decoration: underline;
+    color: aliceblue;
+}
+
+    
